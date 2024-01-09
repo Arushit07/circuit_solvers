@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856213649298",
+    "project_id": "circuitsolvers-70e4c",
+    "storage_bucket": "circuitsolvers-70e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856213649298:android:e32d5c4858ccaeba7d334b",
+        "android_client_info": {
+          "package_name": "com.example.circuit_solvers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOpQIgAcF43b510Q87cLnKGLq17gxHF4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
