@@ -3,6 +3,7 @@ import 'package:circuit_solvers/sign_up.dart';
 import 'package:circuit_solvers/ui_helper.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'home_page.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -23,7 +24,7 @@ class _LoginPageState extends State<LoginPage> {
       UserCredential? userCredential;
       try{
         userCredential=await FirebaseAuth.instance.signInWithEmailAndPassword(email: email, password: password).then((value){
-          Navigator.push(context, MaterialPageRoute(builder: (context)=>MyHomePage(title: "Login")));
+          Navigator.push(context, MaterialPageRoute(builder: (context)=>HomePage()));
         });
       }
       on FirebaseAuthException catch(ex){

@@ -4,7 +4,7 @@
             "outputFile": "com.example.circuit_solvers.app-mergeDebugResources-19:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ARUSHI\\.gradle\\caches\\transforms-3\\db1902df9817773e6766e28f06c58e5e\\transformed\\core-1.9.0\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\ARUSHI\\.gradle\\caches\\transforms-3\\b565d1154604a84739124d6fe72f1307\\transformed\\core-1.9.0\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

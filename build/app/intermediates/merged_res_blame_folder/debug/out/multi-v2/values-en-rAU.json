@@ -4,7 +4,7 @@
             "outputFile": "com.example.circuit_solvers.app-mergeDebugResources-19:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ARUSHI\\.gradle\\caches\\transforms-3\\db1902df9817773e6766e28f06c58e5e\\transformed\\core-1.9.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\ARUSHI\\.gradle\\caches\\transforms-3\\b565d1154604a84739124d6fe72f1307\\transformed\\core-1.9.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ARUSHI\\.gradle\\caches\\transforms-3\\c2f95c81acc9d78e3eb8a0dc41d8c02d\\transformed\\browser-1.4.0\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "source": "C:\\Users\\ARUSHI\\.gradle\\caches\\transforms-3\\8a275074b5c928c6864d7ad0fe5c9cc9\\transformed\\browser-1.4.0\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
